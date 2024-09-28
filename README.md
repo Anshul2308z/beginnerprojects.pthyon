@@ -1,0 +1,1 @@
+This repository is a memorial for a segment of my journey of becoming a coder I WANNA BE and although these files are not special i still am uploading them and the same will go for all the projects i make, I vow to inscribe my journey on github from this day onwards.
