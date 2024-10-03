@@ -34,7 +34,4 @@ else:
 
 
 
-#how to be the juggernut
-#abc=123  gef=789 weilder="akashia "
-print("super no")
 
